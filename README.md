@@ -1,4 +1,6 @@
-# Sea-Animal-Classification-With-Improved-Accuracy
+# Sea-Animal-Classification-using-CNN-With-Improved-Accuracy
+
+The topic we worked on is Sea Animal Classification. Here we can classify the sea creatures by their class and species. It is based on Deep Learning and CNN. It has an improved accuracy over the previous version.
 
 ![Screenshot 2023-06-07 135153](https://github.com/unrealemon/Sea-Animal-Classification-With-Improved-Accuracy/assets/104528693/64be2f8e-1cb8-4365-a063-853a6f52d329)
 
